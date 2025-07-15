@@ -15,7 +15,6 @@
 💻 Flutter Developer passionate about crafting clean and powerful mobile apps  
 🚀 Open to collaboration and freelance opportunities  
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="260px"/>
 
