@@ -17,7 +17,7 @@
 ### 🛠️ My Projects
 
 - 🔗 [Rick and Morty App](https://github.com/Abobkeryw/rick_and_morty): API-based character browser
-- 🔗 [Multi-App](https://github.com/Abobkeryw/Mulit-App): A bundle of 4 apps (Counter, Basketball, Flashlight, Splash Screen)
+- 🔗 [Multi-App](https://github.com/Abobkeryw/Mulit-App): 4 apps (Counter, Basketball, Flashlight, Splash Screen)
 - 🔗 [XO Game](https://github.com/Abobkeryw/XO-Game): Classic Flutter tic-tac-toe
 - 🔗 [QR Code App](https://github.com/Abobkeryw/qr_code_andr): Scan QR codes and pick from gallery
 - 🔗 [BMI Calculator](https://github.com/Abobkeryw/bmi_calculator): Lightweight BMI calculator UI
