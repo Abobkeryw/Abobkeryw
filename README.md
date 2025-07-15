@@ -1,9 +1,9 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+I'm+Abubaker+Mohamed;Flutter+Developer+%F0%9F%87%A8%F0%9F%87%A9%2C+%F0%9F%87%AA%F0%9F%87%AC;Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+I'm+Abubaker;Flutter+Developer;Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B" alt="Typing SVG">
 </p>
 
-## Hey 👋, I'm Abubaker Mohamed!
+## Hey 👋, I'm Abubaker!
 <a href='[https://www.linkedin.com/in/abobker-mohamed](https://www.linkedin.com/in/abubaker-musa-574809175/)' target="_blank"><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='mailto:abubakermusa015@gmail.com'><img align='left' alt="email" src="https://img.shields.io/badge/Gmail-abubakermusa015%40gmail.com-red?style=flat&logo=gmail&logoColor=white" height='18px'/></a>
 
@@ -60,12 +60,6 @@
 ### 🟩 Contribution Streaks
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Abobkeryw&theme=tokyonight&hide_border=true)](https://github.com/Abobkeryw)
-
----
-
-### 📅 GitHub Activity Calendar
-
-[![Abubaker's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Abobkeryw&theme=tokyo-night&hide_border=true)](https://github.com/Abobkeryw)
 
 ---
 
