@@ -4,8 +4,8 @@
 </p>
 
 ## Hey 👋, I'm Abubaker Mohamed!
-<a href='https://www.linkedin.com/in/abobker-mohamed' target="_blank"><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='mailto:abobkermohamed@gmail.com'><img align='left' alt="email" src="https://img.shields.io/badge/Gmail-abobkermohamed%40gmail.com-red?style=flat&logo=gmail&logoColor=white" height='18px'/></a>
+<a href='[https://www.linkedin.com/in/abobker-mohamed](https://www.linkedin.com/in/abubaker-musa-574809175/)' target="_blank"><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='mailto:abubakermusa015@gmail.com'><img align='left' alt="email" src="https://img.shields.io/badge/Gmail-abubakermusa015%40gmail.com-red?style=flat&logo=gmail&logoColor=white" height='18px'/></a>
 
 <br/>
 <br/>
@@ -15,11 +15,7 @@
 💻 Flutter Developer passionate about crafting clean and powerful mobile apps  
 🚀 Open to collaboration and freelance opportunities  
 
-
-
-
 ---
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="260px"/>
 
 ### 🔧 Skills
 
