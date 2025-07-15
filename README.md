@@ -14,31 +14,33 @@
 🌍 Based in Egypt 🇪🇬 | From Sudan 🇸🇩  
 💻 Flutter Developer passionate about crafting clean and powerful mobile apps  
 🚀 Open to collaboration and freelance opportunities  
+
 <br/><br/><br/><br/><br/><br/>
+
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="260px"/>
 
 ---
 
 ### 🔧 Skills
 
-- 💙 Flutter & Dart
-- 🔥 Firebase (Auth, Firestore, Realtime DB)
-- 🎯 State Management (Provider, BLoC, Cubit)
-- 🧱 Clean Architecture & Dependency Injection
-- 🖼️ UI/UX & Responsive Design (Sizer, responsive_framework)
-- 🌐 REST APIs, JSON Parsing
-- 🛠️ Git & GitHub
-- 🧪 Testing (Basic unit and widget tests)
+- 💙 Flutter & Dart  
+- 🔥 Firebase (Auth, Firestore, Realtime DB)  
+- 🎯 State Management (Provider, BLoC, Cubit)  
+- 🧱 Clean Architecture & Dependency Injection  
+- 🖼️ UI/UX & Responsive Design (Sizer, responsive_framework)  
+- 🌐 REST APIs, JSON Parsing  
+- 🛠️ Git & GitHub  
+- 🧪 Testing (Basic unit and widget tests)  
 
 ---
 
 ### 🛠️ My Projects
 
-- 🔗 [Rick and Morty App](https://github.com/Abobkeryw/rick_and_morty) – API-based character browser
-- 🔗 [Multi-App](https://github.com/Abobkeryw/Mulit-App) – 4 apps in 1 (Counter, Basketball, Flashlight, Splash Screen)
-- 🔗 [XO Game](https://github.com/Abobkeryw/XO-Game) – Classic tic-tac-toe game
-- 🔗 [QR Code App](https://github.com/Abobkeryw/qr_code_andr) – Scan QR codes and pick from gallery
-- 🔗 [BMI Calculator](https://github.com/Abobkeryw/bmi_calculator) – BMI calculator with sleek UI
+- 🔗 [Rick and Morty App](https://github.com/Abobkeryw/rick_and_morty) – API-based character browser  
+- 🔗 [Multi-App](https://github.com/Abobkeryw/Mulit-App) – 4 apps in 1 (Counter, Basketball, Flashlight, Splash Screen)  
+- 🔗 [XO Game](https://github.com/Abobkeryw/XO-Game) – Classic tic-tac-toe game  
+- 🔗 [QR Code App](https://github.com/Abobkeryw/qr_code_andr) – Scan QR codes and pick from gallery  
+- 🔗 [BMI Calculator](https://github.com/Abobkeryw/bmi_calculator) – BMI calculator with sleek UI  
 
 ---
 
@@ -54,7 +56,7 @@
 
 ### 📊 GitHub Stats
 
-![Abobker's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abobkeryw&show_icons=true&theme=tokyonight&hide_border=true)
+![Abobker's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abobkeryw&show_icons=true&theme=tokyonight&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abobkeryw&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
