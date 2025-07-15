@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+I'm+Abobker+Mohamed;Flutter+Developer+from+Sudan+%F0%9F%87%A8%F0%9F%87%A9%2C+based+in+Egypt+%F0%9F%87%AA%F0%9F%87%AC;Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+I'm+Abubaker+Mohamed;Flutter+Developer+%F0%9F%87%A8%F0%9F%87%A9%2C+%F0%9F%87%AA%F0%9F%87%AC;Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B" alt="Typing SVG">
 </p>
 
 ## Hey 👋, I'm Abubaker Mohamed!
@@ -19,7 +19,7 @@
 
 
 ---
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="280px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="260px"/>
 
 ### 🔧 Skills
 
