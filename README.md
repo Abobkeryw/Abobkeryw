@@ -51,7 +51,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Status
 
 ![Abubaker's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abobkeryw&show_icons=true&theme=tokyonight&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abobkeryw&layout=compact&theme=tokyonight&hide_border=true)
@@ -67,6 +67,6 @@
 ### 📫 Let’s Connect
 
 💌 Email: [abubakermusa015@gmail.com](mailto:abubakermusa015@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/Abubaker-Musa](https://www.linkedin.com/in/abubaker-musa-574809175/)
+🔗 LinkedIn: [Abubaker Musa](https://www.linkedin.com/in/abubaker-musa-574809175/)
 
 > “Code with passion, build with purpose.” 🔥
