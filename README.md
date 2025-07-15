@@ -37,6 +37,7 @@
 - 🔗 [XO Game](https://github.com/Abobkeryw/XO-Game) – Classic tic-tac-toe game  
 - 🔗 [QR Code App](https://github.com/Abobkeryw/qr_code_andr) – Scan QR codes and pick from gallery  
 - 🔗 [BMI Calculator](https://github.com/Abobkeryw/bmi_calculator) – BMI calculator with sleek UI  
+- 🔗 [NoteBook](https://github.com/Abobkeryw/NoteBook) – NoteBook using CURD sqflite 
 
 ---
 
