@@ -19,7 +19,7 @@
 
 
 ---
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="260px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="280px"/>
 
 ### 🔧 Skills
 
@@ -56,7 +56,7 @@
 
 ### 📊 GitHub Stats
 
-![Abobker's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abobkeryw&show_icons=true&theme=tokyonight&hide_border=true)  
+![Abubaker's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abobkeryw&show_icons=true&theme=tokyonight&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abobkeryw&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
@@ -69,13 +69,13 @@
 
 ### 📅 GitHub Activity Calendar
 
-[![Abobker's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Abobkeryw&theme=tokyo-night&hide_border=true)](https://github.com/Abobkeryw)
+[![Abubaker's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Abobkeryw&theme=tokyo-night&hide_border=true)](https://github.com/Abobkeryw)
 
 ---
 
 ### 📫 Let’s Connect
 
-💌 Email: [abobkermohamed@gmail.com](mailto:abobkermohamed@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/abobker-mohamed](https://www.linkedin.com/in/abobker-mohamed)
+💌 Email: [abubakermusa015@gmail.com](mailto:abubakermusa015@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/Abubaker-Mohamed](https://www.linkedin.com/in/abubaker-musa-574809175/)
 
 > “Code with passion, build with purpose.” 🔥
