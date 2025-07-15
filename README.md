@@ -11,7 +11,7 @@
 <br/>
 
 🎓 IT Graduate from Future University (2025)  
-🌍 Based in Egypt 🇪🇬 | From Sudan 🇸🇩  
+🌍 Based in Cairo, Egypt 
 💻 Flutter Developer passionate about crafting clean and powerful mobile apps  
 🚀 Open to collaboration and freelance opportunities  
 
