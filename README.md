@@ -66,6 +66,6 @@
 ### 📫 Let’s Connect
 
 💌 Email: [abubakermusa015@gmail.com](mailto:abubakermusa015@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/Abubaker-Mohamed](https://www.linkedin.com/in/abubaker-musa-574809175/)
+🔗 LinkedIn: [linkedin.com/in/Abubaker-Musa](https://www.linkedin.com/in/abubaker-musa-574809175/)
 
 > “Code with passion, build with purpose.” 🔥
