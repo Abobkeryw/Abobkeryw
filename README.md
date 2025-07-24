@@ -58,12 +58,6 @@
 
 ---
 
-### 🟩 Contribution Streaks
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Abobkeryw&theme=tokyonight&hide_border=true)](https://github.com/Abobkeryw)
-
----
-
 ### 📫 Let’s Connect
 
 💌 Email: [abubakermusa015@gmail.com](mailto:abubakermusa015@gmail.com)  
