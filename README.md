@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+I'm+Abubaker;Flutter+Developer;Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+I'm+Abubaker;I'm+Flutter+Developer;Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B" alt="Typing SVG">
 </p>
 
 ## Hey 👋, I'm Abubaker!
@@ -63,4 +63,4 @@
 💌 Email: [abubakermusa015@gmail.com](mailto:abubakermusa015@gmail.com)  
 🔗 LinkedIn: [Abubaker Musa](https://www.linkedin.com/in/abubaker-musa-574809175/)
 
-> “Code with passion, build with purpose.” 🔥
+  “Code with passion, build with purpose.” 🔥
